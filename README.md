@@ -139,29 +139,24 @@ Glowfly includes a complete email notification workflow for smooth communication
 | 📧 Email Notifications   | Automated Mail System               |
 | 📊 Admin Dashboard       | Reports & Monitoring                |
 
-🛠️ Technology Stack
+# 🛠️ Technology Stack
 
-⚙️ Backend
+## ⚙️ Backend
 
-Laravel
+- 🔴 Laravel  
+- 🐘 PHP  
+- 🔗 REST APIs  
+- 🐘 PostgreSQL (PGSQL)  
 
-PHP
+---
 
-REST APIs
+## 🎨 Frontend
 
-PostgreSQL (PGSQL)
-
-🎨 Frontend
-
-Blade Templates
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Tailwind CSS
+- 🧩 Blade Templates  
+- 🌐 HTML5  
+- 🎨 CSS3  
+- ⚡ JavaScript  
+- 💨 Tailwind CSS  
 
 🎯 Project Purpose
 Glowfly is designed to create a complete and modern ecommerce ecosystem where:
