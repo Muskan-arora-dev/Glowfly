@@ -124,28 +124,6 @@ Glowfly includes a complete email notification workflow for smooth communication
 
 ---
 
-# 🏗️ System Architecture
-
-
-                     ┌──────────────────┐
-                     │      ADMIN       │
-                     │ Dashboard System │
-                     └────────┬─────────┘
-                              │
-        ┌─────────────────────┼─────────────────────┐
-        │                     │                     │
-        ▼                     ▼                     ▼
-
- ┌────────────┐      ┌──────────────┐      ┌──────────────┐
- │   SELLER   │      │     USER     │      │ DELIVERY BOY │
- │ Shopkeeper │      │  Customers   │      │   Partners   │
- └─────┬──────┘      └──────┬───────┘      └──────┬───────┘
-       │                    │                     │
-       ▼                    ▼                     ▼
-
- ┌────────────┐      ┌──────────────┐      ┌──────────────┐
- │  PRODUCTS  │      │    ORDERS    │      │  DELIVERIES  │
- └────────────┘      └──────────────┘      └──────────────┘
 
  | Module                   | Description                         |
 | ------------------------ | ----------------------------------- |
