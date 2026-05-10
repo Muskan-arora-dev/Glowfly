@@ -156,7 +156,8 @@ Glowfly includes a complete email notification workflow for smooth communication
 - 🌐 HTML5  
 - 🎨 CSS3  
 - ⚡ JavaScript  
-- 💨 Tailwind CSS  
+- 💨 Tailwind CSS
+  ---
 
 🎯 Project Purpose
 Glowfly is designed to create a complete and modern ecommerce ecosystem where:
@@ -171,7 +172,7 @@ Glowfly is designed to create a complete and modern ecommerce ecosystem where:
 
 
 This project combines Ecommerce + Delivery Management + Multi Vendor Workflow into one powerful Laravel-based system.
-
+---
 👩‍💻 Developer
 Muskan Arora
 
