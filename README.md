@@ -141,6 +141,8 @@ Glowfly includes a complete email notification workflow for smooth communication
 
 # 🛠️ Technology Stack
 
+---
+
 ## ⚙️ Backend
 
 - 🔴 Laravel  
@@ -156,28 +158,47 @@ Glowfly includes a complete email notification workflow for smooth communication
 - 🌐 HTML5  
 - 🎨 CSS3  
 - ⚡ JavaScript  
-- 💨 Tailwind CSS
-  ---
+- 💨 Tailwind CSS  
 
-🎯 Project Purpose
+---
+
+# 🎯 Project Purpose
+
 Glowfly is designed to create a complete and modern ecommerce ecosystem where:
 
-👤 Customers can shop easily
-
-🏪 Sellers can grow their business
-
-🚚 Delivery partners can manage deliveries efficiently
-
-👨‍💻 Admins can control the entire platform
-
-
-This project combines Ecommerce + Delivery Management + Multi Vendor Workflow into one powerful Laravel-based system.
 ---
-👩‍💻 Developer
-Muskan Arora
 
-💼 Full Stack Laravel Developer
-🚀 Passionate about Ecommerce & Management Systems
+👤 Customers can shop easily  
 
-🔗 Connect With Me
-GitHub: https://github.com/Muskan-arora-dev
+🏪 Sellers can grow their business  
+
+🚚 Delivery partners can manage deliveries efficiently  
+
+👨‍💻 Admins can control the entire platform  
+
+---
+
+This project combines:
+
+✨ Ecommerce  
+🚚 Delivery Management  
+🏪 Multi Vendor Workflow  
+
+into one powerful Laravel-based system.
+
+---
+
+# 👩‍💻 Developer
+
+## Muskan Arora
+
+💼 Full Stack Laravel Developer  
+🚀 Passionate about Ecommerce & Management Systems  
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/Muskan-arora-dev
+
+---
