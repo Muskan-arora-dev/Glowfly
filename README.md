@@ -6,7 +6,7 @@
 ![PHP](https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?style=for-the-badge&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 ### 🌸 Complete Cosmetic Ecommerce & Delivery Management System
 
