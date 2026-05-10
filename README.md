@@ -1,59 +1,195 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# ✨ Glowfly – Multi Vendor Cosmetic Ecommerce & Delivery Management Platform
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<div align="center">
 
-## About Laravel
+![Laravel](https://img.shields.io/badge/Laravel-Framework-red?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?style=for-the-badge&logo=tailwind-css)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 🌸 Complete Cosmetic Ecommerce & Delivery Management System
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+A modern **Multi Vendor Cosmetic Ecommerce Platform** built using **Laravel**, featuring complete ecommerce workflows, seller management, delivery tracking, payment systems, and admin controls.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+</div>
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+# 📌 Project Overview
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+**Glowfly** is a powerful and scalable cosmetic ecommerce platform designed for:
 
-## Laravel Sponsors
+- 🛍️ Online Cosmetic Shopping
+- 🏪 Multi Vendor Marketplace
+- 🚚 Delivery Management
+- 👨‍💼 Seller & Shopkeeper System
+- 📦 Order Processing
+- 💳 Secure Payments
+- 📧 Email Notification Automation
+- 📊 Admin Analytics & Monitoring
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+The platform creates a complete ecosystem where:
 
-### Premium Partners
+✅ Customers can shop online  
+✅ Sellers can manage products & orders  
+✅ Delivery partners can handle deliveries  
+✅ Admins can monitor the entire system  
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+---
 
-## Contributing
+# 🌟 Key Features
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+# 👨‍💻 Admin Dashboard
 
-## Code of Conduct
+- 📊 Advanced Admin Dashboard
+- 👥 User Management
+- 🏪 Seller Management
+- 🚚 Delivery Partner Management
+- 📦 Order Monitoring
+- 💳 Payment Monitoring
+- 📈 Reports & Analytics
+- 🛒 Product & Category Management
+- 📧 Email Notification Controls
+- 🔐 Role & Permission Management
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+---
 
-## Security Vulnerabilities
+# 🏪 Seller Module
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- 📝 Seller Registration & Login
+- 📦 Product Upload System
+- 🛍️ Product Management
+- 💰 Product Pricing Control
+- 📊 Sales Reports
+- 📦 Order Handling
+- 🚚 Delivery Coordination
+- 📧 Email Order Notifications
+- 📈 Inventory Management
 
-## License
+---
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# 👤 User Ecommerce Module
+
+- 🔐 User Registration & Login
+- 🛒 Add to Cart System
+- ❤️ Wishlist Support
+- 🔍 Product Search & Filtering
+- 💳 Secure Checkout Process
+- 📦 Order Placement
+- 🚚 Delivery Tracking
+- 📜 Order History
+- 📧 Email Notifications
+- 💰 Online Payment Integration
+
+---
+
+# 🚚 Delivery Partner Module
+
+- 🚚 Delivery Partner Registration
+- 📦 Assigned Order Management
+- ✅ Delivery Acceptance / Rejection
+- 📍 Live Delivery Updates
+- 💰 Earnings Tracking
+- 📜 Delivery History
+- 🗺️ Route Management
+- 📦 Real-Time Status Updates
+
+---
+
+# 📧 Email Notification System
+
+Glowfly includes a complete email notification workflow for smooth communication between all users.
+
+### 📩 Supported Notifications
+
+- ✅ Order Confirmation Emails
+- 📦 Order Status Update Emails
+- 🚚 Delivery Update Notifications
+- 💳 Payment Confirmation Emails
+- 🔐 Authentication Emails
+- 🏪 Seller Notifications
+- 👨‍💼 Admin Notifications
+
+---
+
+# 💳 Payment & Order Management
+
+- 💳 Online Payment Gateway Support
+- 💵 Cash on Delivery (COD)
+- 🔐 Secure Transaction Workflow
+- 📦 Order Status Monitoring
+- 🧾 Invoice Generation
+- 📊 Payment Tracking System
+
+---
+
+# 🏗️ System Architecture
+
+
+                     ┌──────────────────┐
+                     │      ADMIN       │
+                     │ Dashboard System │
+                     └────────┬─────────┘
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+        ▼                     ▼                     ▼
+
+ ┌────────────┐      ┌──────────────┐      ┌──────────────┐
+ │   SELLER   │      │     USER     │      │ DELIVERY BOY │
+ │ Shopkeeper │      │  Customers   │      │   Partners   │
+ └─────┬──────┘      └──────┬───────┘      └──────┬───────┘
+       │                    │                     │
+       ▼                    ▼                     ▼
+
+ ┌────────────┐      ┌──────────────┐      ┌──────────────┐
+ │  PRODUCTS  │      │    ORDERS    │      │  DELIVERIES  │
+ └────────────┘      └──────────────┘      └──────────────┘
+
+ | Module                   | Description                         |
+| ------------------------ | ----------------------------------- |
+| 🔐 Authentication System | Secure Login & Registration         |
+| 👥 Role Management       | Admin, Seller, User, Delivery Roles |
+| 🛒 Ecommerce System      | Complete Shopping Workflow          |
+| 📦 Product Management    | Product CRUD & Inventory            |
+| 🛍️ Category Management  | Product Categories                  |
+| ❤️ Wishlist System       | Save Favorite Products              |
+| 📦 Order Management      | Order Processing & Tracking         |
+| 🚚 Delivery Tracking     | Real-Time Delivery Workflow         |
+| 💳 Payment System        | Online & COD Payments               |
+| 📧 Email Notifications   | Automated Mail System               |
+| 📊 Admin Dashboard       | Reports & Monitoring                |
+
+🛠️ Technology Stack
+⚙️ Backend
+Laravel
+PHP
+REST APIs
+PostgreSQL (PGSQL)
+
+🎨 Frontend
+Blade Templates
+HTML5
+CSS3
+JavaScript
+Tailwind CSS
+
+🎯 Project Purpose
+Glowfly is designed to create a complete and modern ecommerce ecosystem where:
+
+👤 Customers can shop easily
+🏪 Sellers can grow their business
+🚚 Delivery partners can manage deliveries efficiently
+👨‍💻 Admins can control the entire platform
+
+This project combines Ecommerce + Delivery Management + Multi Vendor Workflow into one powerful Laravel-based system.
+
+👩‍💻 Developer
+Muskan Arora
+
+💼 Full Stack Laravel Developer
+🚀 Passionate about Ecommerce & Management Systems
+
+🔗 Connect With Me
+GitHub: https://github.com/Muskan-arora-dev
