@@ -140,26 +140,40 @@ Glowfly includes a complete email notification workflow for smooth communication
 | 📊 Admin Dashboard       | Reports & Monitoring                |
 
 🛠️ Technology Stack
+
 ⚙️ Backend
+
 Laravel
+
 PHP
+
 REST APIs
+
 PostgreSQL (PGSQL)
 
 🎨 Frontend
+
 Blade Templates
+
 HTML5
+
 CSS3
+
 JavaScript
+
 Tailwind CSS
 
 🎯 Project Purpose
 Glowfly is designed to create a complete and modern ecommerce ecosystem where:
 
 👤 Customers can shop easily
+
 🏪 Sellers can grow their business
+
 🚚 Delivery partners can manage deliveries efficiently
+
 👨‍💻 Admins can control the entire platform
+
 
 This project combines Ecommerce + Delivery Management + Multi Vendor Workflow into one powerful Laravel-based system.
 
